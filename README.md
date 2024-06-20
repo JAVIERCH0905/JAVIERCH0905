@@ -41,4 +41,4 @@ Soy un Desarrollador de Software apasionado con una sólida experiencia en el de
 
 ## 📈 Github
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdisonChancusig&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JAVIERCH0905&show_icons=true&theme=dark)
