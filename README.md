@@ -18,7 +18,7 @@ Soy un Desarrollador de Software apasionado con una sólida experiencia en el de
   <a href="https://www.linkedin.com/in/edison-javier-chancusig-palacios-2417a4255">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Edison Chancusig | LinkedIn"/>
   </a>
-  <a href="edisonchancusig1997@gmail.com">
+  <a href="mailto:edisonchancusig1997@gmail.com/">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Edison Chancusig | Gmail"/>
   </a>
   <a href="https://www.facebook.com/javier.chancusig.5/">
