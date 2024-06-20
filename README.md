@@ -14,21 +14,22 @@ Soy un Desarrollador de Software apasionado con una sólida experiencia en el de
 
 ## ☎ Sígueme
 
-<div style="display: flex; gap: 10px;">
-    <a href="https://www.linkedin.com/in/edisonchancusig">
-        <img align="left" src="img/linkedin2.svg" alt="Edison Chancusig | LinkedIn" width="30px"/>
-    </a>
-    <a href="mailto:edisonchancusig@example.com/">
-        <img align="left" src="img/gmail.svg" alt="Edison Chancusig | Gmail" width="30px"/>
-    </a>
-    <a href="https://www.facebook.com/edison.chancusig">
-        <img align="left" src="img/facebook.svg" alt="Edison Chancusig | Facebook" width="30px"/>
-    </a>
-     <a href="https://www.instagram.com/edisonchancusig/">
-        <img align="left" src="img/instagram.svg" alt="Edison Chancusig | Instagram" width="30px"/>
-    </a>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/edison-javier-chancusig-palacios-2417a4255">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Edison Chancusig | LinkedIn"/>
+  </a>
+  <a href="mailto:edisonchancusig@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Edison Chancusig | Gmail"/>
+  </a>
+  <a href="https://www.facebook.com/edison.chancusig">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Edison Chancusig | Facebook"/>
+  </a>
+  <a href="https://www.instagram.com/edisonchancusig/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Edison Chancusig | Instagram"/>
+  </a>
+</p>
 <br>
+
 
 ## 💡 Habilidades
 
