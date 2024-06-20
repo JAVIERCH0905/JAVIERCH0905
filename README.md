@@ -18,9 +18,6 @@ Soy un Desarrollador de Software apasionado con una sólida experiencia en el de
   <a href="https://www.linkedin.com/in/edison-javier-chancusig-palacios-2417a4255">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Edison Chancusig | LinkedIn"/>
   </a>
-  <a href="mailto:edisonchancusig1997@gmail.com/">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Edison Chancusig | Gmail"/>
-  </a>
   <a href="https://www.facebook.com/javier.chancusig.5/">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Edison Chancusig | Facebook"/>
   </a>
@@ -35,7 +32,8 @@ Soy un Desarrollador de Software apasionado con una sólida experiencia en el de
 
 <div>
   <p align="">
-      <img src="https://skillicons.dev/icons?i=python,java,javascript,angular,nodejs,react,gcp,mysql,firebase,postman,git&perline=10" />
+      <img src="https://skillicons.dev/icons?i=api,azure,devops,gcp,github,ml,linux,vercel,vm,androidstudio,figma,flutter,react,tailwindcss,apache,firebase,glassfish,java,mongodb,mysql,nginx,nodejs,oracle,postgres,python,sqlserver,spring,wildfly,xampp&perline=10" />
+
     
   </p> 
  
