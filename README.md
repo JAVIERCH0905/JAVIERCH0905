@@ -1,5 +1,5 @@
 <h2 align="center">
-👋 Hola, Soy <a href="https://portfolio-kevdev.vercel.app/" target="_blank" rel="noreferrer">Edison Chancusig</a> 
+👋 Hola, Soy <a href="https://edisonchancusig.vercel.app/" target="_blank" rel="noreferrer">Edison Chancusig</a> 
 </h2>
 <p align="center">
   <a href="#" target="_blank" rel="noreferrer"><img src="logo.png" alt="my banner"></a>
@@ -8,10 +8,7 @@
 ## 🚀 Acerca de mí
 
 <p>
-Hola, soy Edison Chancusig, un Ingeniero de Software especializado en desarrollo Fullstack. Me caracterizo por mi enfoque colaborativo y comunicativo, así como por mi profunda pasión por esta área.
-Disfruto enfrentando nuevos desafíos y aplicando soluciones innovadoras en el desarrollo tanto frontend como backend. Mi habilidad se centra en construir y gestionar la lógica y funcionalidad de sitios web y aplicaciones, creando sistemas robustos y eficientes que impulsan el éxito de los productos que desarrollo.
-
-¡Contáctame y exploremos las infinitas posibilidades en el ámbito de la codificación! 🖥✨
+Soy un Desarrollador de Software apasionado con una sólida experiencia en el desarrollo de aplicaciones móviles y servicios enfocados en la agilidad y la calidad. He formado parte de equipos dedicados a la creación de soluciones innovadoras para optimizar y mejorar procesos internos y externos en diversas organizaciones. Mi participación en proyectos destacados ha incluido el trabajo en equipos multidisciplinarios, donde he colaborado estrechamente para garantizar una integración fluida y efectiva de diversas tecnologías y herramientas. Estoy comprometido con la mejora continua y la excelencia en el desarrollo de software, y siempre busco oportunidades para aprender y crecer en mi campo. Mi objetivo es seguir contribuyendo a proyectos que requieran innovación, colaboración y un enfoque riguroso en la calidad del producto final. 🖥✨
 
 </p>
 
